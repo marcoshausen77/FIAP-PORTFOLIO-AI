@@ -61,6 +61,8 @@ Testes via AppTest não equivalem a teste manual de navegador. Upload é injetad
 
 Não há pendência técnica de criação do repositório ou de documentação das US. O trabalho não deve ser chamado de pronto para submissão enquanto faltarem os itens acima.
 
+Registro visual da revisão: [repositório privado](../../../assets/repositorio_privado.jpg). Captura antes do commit que incorpora esta própria imagem.
+
 ## Arquivos criados
 
 - `.gitignore`
@@ -92,3 +94,4 @@ Não há pendência técnica de criação do repositório ou de documentação d
 - `1TIAO/ENTERPRISE-CHALLENGE/tests/test_core.py`
 - `ENTREGA.txt`
 - `README.md`
+- `assets/repositorio_privado.jpg`

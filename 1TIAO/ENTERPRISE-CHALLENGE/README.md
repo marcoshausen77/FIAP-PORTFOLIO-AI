@@ -327,6 +327,7 @@ Relatório futuro PDF: resumo executivo, período, total, categorias, ineficiên
 ## 27. Estrutura do repositório
 
 - `../../README.md`: portfólio FIAP e acesso à entrega.
+- `../../assets/repositorio_privado.jpg`: evidência visual da privacidade do repositório.
 - `README.md`: documentação central da Sprint 1.
 - `data/`: frota, benchmark e premissas simuladas.
 - `docs/`: dicionário, arquitetura, regras, segurança, Sprints, Kanban, auditoria, checklist e roteiro.
