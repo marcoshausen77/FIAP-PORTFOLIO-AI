@@ -1,0 +1,7 @@
+tipo_veiculo,categoria,referencia_r_por_km,origem,versao
+leve,custo_combustivel,0.50,SIMULADO_ACADEMICO,1
+leve,custo_manutencao,0.12,SIMULADO_ACADEMICO,1
+van,custo_combustivel,0.72,SIMULADO_ACADEMICO,1
+van,custo_manutencao,0.20,SIMULADO_ACADEMICO,1
+caminhao,custo_combustivel,1.55,SIMULADO_ACADEMICO,1
+caminhao,custo_manutencao,0.45,SIMULADO_ACADEMICO,1
