@@ -3,7 +3,7 @@
 **Calculadora Inteligente de Redução de Custos de Frota**  
 FIAP — Graduação ON em Inteligência Artificial · Enterprise Challenge · Sem Parar Empresas · Sprint 1.
 
-> A Sprint 1 estabelece a base do projeto. Dados e benchmarks são simulados. O MVP é um bônus acadêmico local; não representa um serviço da Sem Parar, nem promessa de economia. A entrega acadêmica permanece pendente do vídeo e dos dados do grupo.
+> A Sprint 1 estabelece a base do projeto. Dados e benchmarks são simulados. O MVP é um bônus acadêmico local; não representa um serviço da Sem Parar, nem promessa de economia. A entrega acadêmica permanece pendente do vídeo e dos dados do grupo. Repositório PRIVATE, branch main; acesso de fiap-tutoria confirmado (write). Auditoria final em [docs/AUDITORIA_FINAL.md](docs/AUDITORIA_FINAL.md).
 
 ## 2. Nome do grupo
 

@@ -22,7 +22,7 @@
 | Roteiro de vídeo | CONCLUÍDO | ROTEIRO_VIDEO.md, duração planejada 4min40s |
 | Vídeo YouTube não listado ≤5 min | PENDENTE | Gravar, publicar e inserir o link |
 | Nome do grupo, integrantes, tutor e NEXT | PENDENTE | Preencher sem inventar |
-| fiap-tutoria | PENDENTE | Enviar convite e distinguir pendente/aceito |
+| fiap-tutoria | CONCLUÍDO | Convite enviado; consulta de permissões em 06/10/2026 retornou write |
 | ENTREGA.txt | PENDENTE | Arquivo criado com URL real; falta substituir o link do vídeo |
 | OCR e IA treinada nesta Sprint | NÃO APLICÁVEL | Não exigidos nem implementados no bônus |
 | Submissão no Portal FIAP | PENDENTE | Só após completar links e revisar acesso |

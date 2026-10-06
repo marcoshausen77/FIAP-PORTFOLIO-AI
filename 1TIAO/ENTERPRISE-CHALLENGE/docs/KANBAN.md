@@ -13,7 +13,7 @@ Responsáveis abaixo são uma proposta de distribuição; nomes e aceite do grup
 | CONCLUÍDO | Implementar e testar bônus local | Integrante 3 | Média | 1 bônus |
 | A FAZER | Confirmar grupo, integrantes, tutor e NEXT | Integrante 1 | Alta | 1 |
 | A FAZER | Gravar vídeo não listado e atualizar links | Integrante 5 | Alta | 1 |
-| A FAZER | Verificar convite/acesso fiap-tutoria | Integrante 1 | Alta | 1 |
+| CONCLUÍDO | Verificar convite/acesso fiap-tutoria | Integrante 1 | Alta | 1 |
 | A FAZER | Conferir TXT e submeter no portal | Integrante 5 | Alta | 1 |
 | BACKLOG | Pipeline persistente e idempotência | Integrante 2 | Alta | 2 |
 | BACKLOG | Dashboard e histórico por tenant | Integrante 3 | Alta | 3 |
@@ -22,4 +22,4 @@ Responsáveis abaixo são uma proposta de distribuição; nomes e aceite do grup
 | BACKLOG | Segurança produtiva e testes de acesso | Integrante 4 | Alta | 6 |
 | BACKLOG | Integração e apresentação final | Integrante 5 | Alta | Final |
 
-EM ANDAMENTO: auditoria final e verificação do acesso da tutoria. Bônus implementado após gate documental e validado com 46 testes. Não atribuir nomes ou horas não confirmados.
+EM ANDAMENTO: nenhuma atividade técnica aberta nesta revisão. Auditoria final concluída e acesso da tutoria confirmado pela integração (write). Bônus implementado após gate documental e validado com 46 testes. Não atribuir nomes ou horas não confirmados.
