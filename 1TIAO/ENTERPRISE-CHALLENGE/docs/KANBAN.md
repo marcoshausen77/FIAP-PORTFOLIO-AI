@@ -10,7 +10,7 @@ Responsáveis abaixo são uma proposta de distribuição; nomes e aceite do grup
 | CONCLUÍDO | Fórmulas e benchmark simulado | Integrante 3 | Alta | 1 |
 | CONCLUÍDO | Arquitetura e segurança planejadas | Integrante 4 | Alta | 1 |
 | CONCLUÍDO | Roadmap, checklist e auditoria documental | Integrante 5 | Alta | 1 |
-| A FAZER | Implementar e testar bônus local | Integrante 3 | Média | 1 bônus |
+| CONCLUÍDO | Implementar e testar bônus local | Integrante 3 | Média | 1 bônus |
 | A FAZER | Confirmar grupo, integrantes, tutor e NEXT | Integrante 1 | Alta | 1 |
 | A FAZER | Gravar vídeo não listado e atualizar links | Integrante 5 | Alta | 1 |
 | A FAZER | Verificar convite/acesso fiap-tutoria | Integrante 1 | Alta | 1 |
@@ -22,4 +22,4 @@ Responsáveis abaixo são uma proposta de distribuição; nomes e aceite do grup
 | BACKLOG | Segurança produtiva e testes de acesso | Integrante 4 | Alta | 6 |
 | BACKLOG | Integração e apresentação final | Integrante 5 | Alta | Final |
 
-EM ANDAMENTO: nenhuma tarefa documental aberta nesta fotografia; implementação do bônus iniciará após o gate da auditoria. Atualizar esta tabela na revisão final. Não atribuir nomes ou horas não confirmados.
+EM ANDAMENTO: auditoria final e verificação do acesso da tutoria. Bônus implementado após gate documental e validado com 46 testes. Não atribuir nomes ou horas não confirmados.

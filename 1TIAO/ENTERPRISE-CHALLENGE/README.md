@@ -340,7 +340,7 @@ Não foram criadas pastas vazias sem finalidade.
 
 ## 28. Decisões técnicas
 
-Python 3.11+ (compatível com 3.12), Pandas para tabelas, Streamlit para interface local e openpyxl para XLSX. Separação de ingestão, validação, cálculo e apresentação facilita testar fórmulas. Valores de moeda são arredondados a centavos na apresentação; tolerância de conciliação explícita. Banco, OCR e modelo de IA seriam custo e risco sem benefício para o planejamento desta Sprint; permanecem no roadmap.
+Python 3.11+ (compatível com 3.12), Pandas para tabelas, Streamlit para interface local e openpyxl para XLSX. Separação de ingestão, validação, cálculo e apresentação facilita testar fórmulas. Valores de moeda são arredondados a centavos na apresentação com regra decimal half-up; tolerância de conciliação explícita. Banco, OCR e modelo de IA seriam custo e risco sem benefício para o planejamento desta Sprint; permanecem no roadmap.
 
 CSV simulado é pequeno, legível e versionável. Referências em arquivo separado permitem trocar parâmetros sem alterar a fórmula. A versão do cenário e as limitações aparecem no relatório. Não se usam médias simples de custo/km para consolidar a frota.
 

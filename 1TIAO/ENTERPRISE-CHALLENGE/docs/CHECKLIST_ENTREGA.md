@@ -18,12 +18,12 @@
 | README central e raiz | CONCLUÍDO | README e documentos relacionados |
 | segurança e privacidade planejadas | CONCLUÍDO | README e documentos relacionados |
 | GitHub privado | CONCLUÍDO | Confirmado PRIVATE na interface e integração; branch main |
-| MVP e testes | PENDENTE | Executar após gate documental |
-| Roteiro de vídeo | PENDENTE | Preparar após testes |
+| MVP e testes | CONCLUÍDO | 46 testes aprovados; Streamlit health ok; ver VALIDACAO_MVP.md |
+| Roteiro de vídeo | CONCLUÍDO | ROTEIRO_VIDEO.md, duração planejada 4min40s |
 | Vídeo YouTube não listado ≤5 min | PENDENTE | Gravar, publicar e inserir o link |
 | Nome do grupo, integrantes, tutor e NEXT | PENDENTE | Preencher sem inventar |
 | fiap-tutoria | PENDENTE | Enviar convite e distinguir pendente/aceito |
-| ENTREGA.txt | PENDENTE | Criar com URL real; vídeo ainda pendente |
+| ENTREGA.txt | PENDENTE | Arquivo criado com URL real; falta substituir o link do vídeo |
 | OCR e IA treinada nesta Sprint | NÃO APLICÁVEL | Não exigidos nem implementados no bônus |
 | Submissão no Portal FIAP | PENDENTE | Só após completar links e revisar acesso |
 
