@@ -1,6 +1,6 @@
 # Kanban — Sprint 1 e próximos passos
 
-Responsabilidades distribuídas entre os integrantes do **Grupo 69**. O status CONCLUÍDO refere-se aos artefatos preparados nesta Sprint.
+Responsabilidades distribuídas entre os integrantes do **Grupo 69**. O status CONCLUÍDO indica as tarefas finalizadas nesta Sprint.
 
 | Coluna | Atividade | Responsável | Prioridade | Sprint |
 |---|---|---|---|---|
