@@ -16,10 +16,10 @@ Data: 06/10/2026. **Parte técnica preparada e validada. Grupo 69 identificado e
 | MVP | Funcional localmente | CSV/XLSX, validação, métricas, gráficos, cenário, ações e relatório |
 | Testes | 46 aprovados | pytest; detalhes em VALIDACAO_MVP.md |
 | Streamlit | Iniciado; health ok | Exemplo carregado via AppTest; sem hospedagem permanente |
-| fiap-tutoria | Acesso de colaborador confirmado | Convite inicialmente pendente; consulta posterior retornou permission=write |
+| fiap-tutoria | Acesso confirmado | Colaborador adicionado ao repositório privado |
 | Grupo | Grupo 69 | Cinco integrantes identificados e responsabilidades distribuídas |
 | FIAP NEXT | Não participa | Decisão registrada no README |
-| Vídeo | PENDENTE | Narração atribuída a Vanira Alves da Silva; roteiro de 4min40s pronto; nenhuma URL inventada |
+| Vídeo | PENDENTE | Narração atribuída a Vanira Alves da Silva; roteiro de 4min40s pronto |
 | ENTREGA.txt | Criado, incompleto | URL real do GitHub; falta vídeo |
 
 ## Rastreabilidade dos requisitos do briefing
@@ -30,7 +30,7 @@ Data: 06/10/2026. **Parte técnica preparada e validada. Grupo 69 identificado e
 | 6: dez US e oito elementos por história | CONCLUÍDO | README 11 |
 | 7: portfólio e aderência | CONCLUÍDO | README 22; recomendações sem oferta forçada |
 | 8: novo GitHub privado e template | CONCLUÍDO | Repositório confirmado; estrutura adaptada |
-| 9: acesso fiap-tutoria | CONCLUÍDO | permission=write em consulta após o convite |
+| 9: acesso fiap-tutoria | CONCLUÍDO | Colaborador com acesso ao repositório privado |
 | 10–12: nome e READMEs | CONCLUÍDO | README raiz e 31 seções; Grupo 69 identificado |
 | 13–14: dataset e dicionário | CONCLUÍDO | data/ e DICIONARIO_DE_DADOS.md |
 | 15–17: entrada, lacunas e indicadores | CONCLUÍDO | README 15–18 e módulos testados |
