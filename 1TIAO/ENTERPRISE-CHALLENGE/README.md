@@ -347,7 +347,7 @@ CSV simulado é pequeno, legível e versionável. Referências em arquivo separa
 
 ## 29. Como executar o MVP
 
-Bônus implementado após a auditoria documental. Requisitos: Python 3.11 ou 3.12 e Git. Na primeira execução, conexão para instalar dependências; depois, não há chamada de API do projeto.
+O MVP foi desenvolvido como complemento da documentação da Sprint 1. Requisitos: Python 3.11 ou 3.12 e Git. Na primeira execução, é necessária conexão apenas para instalar as dependências.
 
 ```bash
 git clone https://github.com/marcoshausen77/FIAP-PORTFOLIO-AI.git
@@ -365,13 +365,11 @@ python -m streamlit run src/app.py --server.address 127.0.0.1
 
 Abra `http://localhost:8501`. Clique **Carregar exemplo simulado** ou envie `data/frota_exemplo.csv`. Para XLSX, salve as mesmas colunas em uma primeira aba com células numéricas. Selecione empresa, meses e perfil; revise a qualidade; consulte gráficos, cenário e recomendações; baixe o relatório. Para parar, Ctrl+C no terminal.
 
-Não há OCR, login, persistência, integração comercial ou publicação hospedada. Evidências de execução e limitações dos testes ficam em [VALIDACAO_MVP.md](docs/VALIDACAO_MVP.md) após a validação.
+Não há OCR, login, persistência, integração comercial ou publicação hospedada. Detalhes de execução e limitações dos testes estão em [VALIDACAO_MVP.md](docs/VALIDACAO_MVP.md).
 
 ## 30. Vídeo
 
-**[LINK DO YOUTUBE PENDENTE]**
-
-Narração planejada: **Vanira Alves da Silva**. Máximo de 5 minutos, narração humana ou legendas, YouTube **não listado**. Roteiro em [docs/ROTEIRO_VIDEO.md](docs/ROTEIRO_VIDEO.md), a preencher após a validação do bônus. O mesmo link deve substituir a pendência em `ENTREGA.txt`. Não enviar o TXT incompleto ao portal.
+Apresentação do projeto em vídeo com narração de **Vanira Alves da Silva**, duração máxima de 5 minutos e publicação no YouTube como **não listado**, conforme os requisitos da entrega.
 
 ## 31. Participação no FIAP NEXT
 
