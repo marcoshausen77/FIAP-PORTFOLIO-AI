@@ -1,6 +1,6 @@
 # Planejamento das Sprints
 
-Planejamento proposto pelo grupo; datas oficiais e divisão definitiva pendentes. Cada entrega exige documentação, testes e revisão, não apenas código. Segurança começa no desenho e é aprofundada na Sprint 6.
+Planejamento proposto pelo **Grupo 69**. Cada entrega exige documentação, testes e revisão, não apenas código. Segurança começa no desenho e é aprofundada na Sprint 6.
 
 | Sprint | Escopo | User Stories | Dependências | Critério de saída |
 |---|---|---|---|---|
@@ -25,8 +25,16 @@ Protótipo local antecipa ingestão tabular, indicadores, benchmark simulado e r
 | Extração errada | Números incorretos | Revisão humana e conciliação |
 | Atraso no acesso a API | Pipeline incompleto | CSV como contrato inicial; mocks identificados |
 | Escopo excessivo | Documentação/entrega atrasadas | Priorizar S1 e separar bônus |
-| Vídeo e identificação ausentes | Entrega acadêmica incompleta | Checklist final antes do TXT |
+| Vídeo ausente | Entrega acadêmica incompleta | Gravar, publicar como não listado e inserir o link antes do TXT |
 
 ## Definition of Done
 
-História com aceite demonstrado, código revisado quando aplicável, testes adequados, documentação atualizada, limitações declaradas e evidência anexada. Responsáveis propostos são placeholders até confirmação do grupo.
+História com aceite demonstrado, código revisado quando aplicável, testes adequados, documentação atualizada, limitações declaradas e evidência anexada.
+
+## Responsabilidades do Grupo 69
+
+- **Marcos Rodrigues Czerner Hausen:** liderança técnica, arquitetura, regras de negócio, pipeline, integração do MVP e testes críticos.
+- **Bernardo Akin Chiusoli Mendes:** dados simulados, dicionário, indicadores e apoio à validação de benchmarks.
+- **Kelly Mendonça Pereira:** requisitos, User Stories, critérios de aceite, revisão documental e apoio à segurança/privacidade.
+- **Murilo Silva Brito da Rocha:** interface, dashboard, gráficos, relatório e testes da experiência.
+- **Vanira Alves da Silva:** comunicação, revisão da apresentação e narração do vídeo.
