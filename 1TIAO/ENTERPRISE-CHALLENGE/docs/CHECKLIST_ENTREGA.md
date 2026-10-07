@@ -21,10 +21,13 @@
 | MVP e testes | CONCLUÍDO | 46 testes aprovados; Streamlit health ok; ver VALIDACAO_MVP.md |
 | Roteiro de vídeo | CONCLUÍDO | ROTEIRO_VIDEO.md, duração planejada 4min40s |
 | Vídeo YouTube não listado ≤5 min | PENDENTE | Gravar, publicar e inserir o link |
-| Nome do grupo, integrantes, tutor e NEXT | PENDENTE | Preencher sem inventar |
+| Nome do grupo e integrantes | CONCLUÍDO | Grupo 69 e cinco integrantes identificados |
+| Responsabilidades do grupo | CONCLUÍDO | Distribuídas no README, Kanban e planejamento |
+| Tutor | NÃO APLICÁVEL | Não informado pelo grupo; não tratado como bloqueio da entrega |
+| FIAP NEXT | CONCLUÍDO | Grupo decidiu não participar |
 | fiap-tutoria | CONCLUÍDO | Convite enviado; consulta de permissões em 06/10/2026 retornou write |
 | ENTREGA.txt | PENDENTE | Arquivo criado com URL real; falta substituir o link do vídeo |
 | OCR e IA treinada nesta Sprint | NÃO APLICÁVEL | Não exigidos nem implementados no bônus |
 | Submissão no Portal FIAP | PENDENTE | Só após completar links e revisar acesso |
 
-O trabalho acadêmico não está pronto para submissão enquanto houver pendência de vídeo, identificação ou acesso. Nenhuma nota é garantida.
+O trabalho acadêmico ainda não está pronto para submissão **apenas porque falta o vídeo e a inserção do link** no README e no ENTREGA.txt. Nenhuma nota é garantida.
