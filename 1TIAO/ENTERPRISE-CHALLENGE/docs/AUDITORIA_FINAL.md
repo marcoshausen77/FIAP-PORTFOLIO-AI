@@ -1,6 +1,6 @@
 # Auditoria final — FleetSave AI / Sprint 1
 
-Data: 06/10/2026. **Parte técnica preparada e validada. Submissão acadêmica ainda pendente de informações e vídeo.**
+Data: 06/10/2026. **Parte técnica preparada e validada. Grupo 69 identificado e responsabilidades distribuídas. Submissão acadêmica pendente apenas do vídeo e da inclusão do link.**
 
 ## Estado confirmado
 
@@ -17,7 +17,9 @@ Data: 06/10/2026. **Parte técnica preparada e validada. Submissão acadêmica a
 | Testes | 46 aprovados | pytest; detalhes em VALIDACAO_MVP.md |
 | Streamlit | Iniciado; health ok | Exemplo carregado via AppTest; sem hospedagem permanente |
 | fiap-tutoria | Acesso de colaborador confirmado | Convite inicialmente pendente; consulta posterior retornou permission=write |
-| Vídeo | PENDENTE | Roteiro de 4min40s pronto; nenhuma URL inventada |
+| Grupo | Grupo 69 | Cinco integrantes identificados e responsabilidades distribuídas |
+| FIAP NEXT | Não participa | Decisão registrada no README |
+| Vídeo | PENDENTE | Narração atribuída a Vanira Alves da Silva; roteiro de 4min40s pronto; nenhuma URL inventada |
 | ENTREGA.txt | Criado, incompleto | URL real do GitHub; falta vídeo |
 
 ## Rastreabilidade dos requisitos do briefing
@@ -29,7 +31,7 @@ Data: 06/10/2026. **Parte técnica preparada e validada. Submissão acadêmica a
 | 7: portfólio e aderência | CONCLUÍDO | README 22; recomendações sem oferta forçada |
 | 8: novo GitHub privado e template | CONCLUÍDO | Repositório confirmado; estrutura adaptada |
 | 9: acesso fiap-tutoria | CONCLUÍDO | permission=write em consulta após o convite |
-| 10–12: nome e READMEs | CONCLUÍDO técnico | README raiz e 31 seções; identificação pendente |
+| 10–12: nome e READMEs | CONCLUÍDO | README raiz e 31 seções; Grupo 69 identificado |
 | 13–14: dataset e dicionário | CONCLUÍDO | data/ e DICIONARIO_DE_DADOS.md |
 | 15–17: entrada, lacunas e indicadores | CONCLUÍDO | README 15–18 e módulos testados |
 | 18–21: benchmark, diagnóstico, economia e ações | CONCLUÍDO | README 19–22, regras e testes numéricos |
@@ -41,7 +43,7 @@ Data: 06/10/2026. **Parte técnica preparada e validada. Submissão acadêmica a
 | 32–33: TXT e links | PARCIAL | TXT criado; marcador de vídeo igual no README |
 | 34: checklist | CONCLUÍDO | Estados e pendências explicitados |
 | 35: critérios de qualidade | CONCLUÍDO como revisão | Problema → solução → US → dados → fórmulas → ações |
-| 36: informações pendentes | CONCLUÍDO como marcação | Sem nomes/links inventados |
+| 36: informações do grupo | CONCLUÍDO | Grupo 69 e integrantes identificados; tutor não informado e não tratado como bloqueio |
 | 37–38: restrições e ordem | CONCLUÍDO técnico | Privado primeiro; documentação auditada em commit anterior ao MVP |
 | 39: retorno final | Registrado nesta auditoria | Status, arquivos, execução e pendências |
 
@@ -53,13 +55,11 @@ Testes via AppTest não equivalem a teste manual de navegador. Upload é injetad
 
 ## Pendências antes do envio ao Portal
 
-1. Informar nome do grupo e nomes/links dos cinco integrantes (ou ajustar à composição real confirmada).
-2. Informar tutor e decidir participação no FIAP NEXT.
-3. Gravar vídeo com no máximo 5 minutos, narração humana ou legendas; publicar no YouTube como **não listado**.
-4. Substituir `[LINK DO YOUTUBE PENDENTE]` no README e no ENTREGA.txt pelo mesmo link válido.
-5. Revisar a entrega e enviar **somente ENTREGA.txt** no Portal do Aluno. Nenhum envio ao portal foi feito.
+1. Gravar vídeo com no máximo 5 minutos, com narração de **Vanira Alves da Silva**; publicar no YouTube como **não listado**.
+2. Substituir `[LINK DO YOUTUBE PENDENTE]` no README e no ENTREGA.txt pelo mesmo link válido.
+3. Fazer a revisão final e enviar **somente ENTREGA.txt** no Portal do Aluno. Nenhum envio ao portal foi feito.
 
-Não há pendência técnica de criação do repositório ou de documentação das US. O trabalho não deve ser chamado de pronto para submissão enquanto faltarem os itens acima.
+Não há pendência técnica de criação do repositório, identificação do grupo, responsabilidades, FIAP NEXT ou documentação das User Stories. **Resta somente o vídeo, a inserção do link e o envio final do ENTREGA.txt.**
 
 Registro visual da revisão: [repositório privado](../../../assets/repositorio_privado.jpg). Captura antes do commit que incorpora esta própria imagem.
 
