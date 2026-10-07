@@ -1,6 +1,6 @@
 # Validação do bônus funcional
 
-Execução em 06/10/2026 UTC, Python 3.12, Pandas 2.2.3, Streamlit 1.50.0, openpyxl 3.1.5, pytest 8.4.2.
+Execução em 06/10/2026 com Python 3.12, Pandas 2.2.3, Streamlit 1.50.0, openpyxl 3.1.5 e pytest 8.4.2.
 
 ## Resultado
 
@@ -11,7 +11,7 @@ Execução em 06/10/2026 UTC, Python 3.12, Pandas 2.2.3, Streamlit 1.50.0, openp
 | Financeiro | Total, custo/km ponderado, custo/veículo, consumo, zero, ausência e conciliação |
 | Validação | Campo obrigatório, período inválido, negativo, infinito, NaN textual, duplicata e tipo conflitante |
 | Benchmark | Cenário conhecido de R$ 75, zero de economia, cobertura parcial, tipo desconhecido, referência inválida, fator inválido |
-| Recomendações | Evidência, prioridade e aderência; multas sem economia inventada |
+| Recomendações | Evidência, prioridade e aderência; multas sem estimativa indevida de economia |
 | Ingestão | CSV, XLSX equivalente, separador brasileiro, arquivo inválido, fórmulas XLSX e limite de tamanho |
 | Streamlit | Exemplo completo, filtro mensal, visão CFO, fator zero, seleção vazia, upload CSV/XLSX e rejeição de entrada inválida |
 | Relatório | Resumo, números, ações e ressalvas no Markdown exportável |
