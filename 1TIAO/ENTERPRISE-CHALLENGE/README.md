@@ -3,25 +3,25 @@
 **Calculadora Inteligente de Redução de Custos de Frota**  
 FIAP — Graduação ON em Inteligência Artificial · Enterprise Challenge · Sem Parar Empresas · Sprint 1.
 
-> A Sprint 1 estabelece a base do projeto. Dados e benchmarks são simulados. O MVP é um bônus acadêmico local; não representa um serviço da Sem Parar, nem promessa de economia. A entrega acadêmica permanece pendente do vídeo e dos dados do grupo. Repositório PRIVATE, branch main; acesso de fiap-tutoria confirmado (write). Auditoria final em [docs/AUDITORIA_FINAL.md](docs/AUDITORIA_FINAL.md).
+> A Sprint 1 estabelece a base do projeto. Dados e benchmarks são simulados. O MVP é um bônus acadêmico local; não representa um serviço da Sem Parar, nem promessa de economia. O **Grupo 69** já está identificado e a entrega acadêmica permanece pendente apenas da gravação/publicação do vídeo e da inserção do link. Repositório PRIVATE, branch main; acesso de fiap-tutoria confirmado (write). Auditoria final em [docs/AUDITORIA_FINAL.md](docs/AUDITORIA_FINAL.md).
 
 ## 2. Nome do grupo
 
-[INFORMAÇÃO PENDENTE DO GRUPO]
+**Grupo 69**
 
-## 3. Integrantes
+## 3. Integrantes e responsabilidades
 
-Identificação e links pessoais pendentes:
-
-- Integrante 1 — [INFORMAÇÃO PENDENTE]
-- Integrante 2 — [INFORMAÇÃO PENDENTE]
-- Integrante 3 — [INFORMAÇÃO PENDENTE]
-- Integrante 4 — [INFORMAÇÃO PENDENTE]
-- Integrante 5 — [INFORMAÇÃO PENDENTE]
+| Integrante | Responsabilidade principal |
+|---|---|
+| Bernardo Akin Chiusoli Mendes | Dados e indicadores: dataset simulado, dicionário de dados, apoio a benchmarks e conferência dos indicadores. |
+| Vanira Alves da Silva | Comunicação e documentação: revisão executiva da apresentação e **narração do vídeo**. |
+| Kelly Mendonça Pereira | Requisitos e qualidade: User Stories, critérios de aceite, revisão documental e apoio em segurança/privacidade. |
+| **Marcos Rodrigues Czerner Hausen** | **Liderança técnica:** arquitetura, regras de negócio, pipeline de validação e análise, integração do MVP e testes críticos. |
+| Murilo Silva Brito da Rocha | Interface e visualização: dashboard Streamlit, gráficos, exportação do relatório e apoio aos testes da interface. |
 
 ## 4. Tutor
 
-[INFORMAÇÃO PENDENTE]
+Não informado pelo grupo.
 
 ## 5. Coordenador
 
@@ -371,15 +371,15 @@ Não há OCR, login, persistência, integração comercial ou publicação hospe
 
 **[LINK DO YOUTUBE PENDENTE]**
 
-Máximo de 5 minutos, narração humana ou legendas, YouTube **não listado**. Roteiro em [docs/ROTEIRO_VIDEO.md](docs/ROTEIRO_VIDEO.md), a preencher após a validação do bônus. O mesmo link deve substituir a pendência em `ENTREGA.txt`. Não enviar o TXT incompleto ao portal.
+Narração planejada: **Vanira Alves da Silva**. Máximo de 5 minutos, narração humana ou legendas, YouTube **não listado**. Roteiro em [docs/ROTEIRO_VIDEO.md](docs/ROTEIRO_VIDEO.md), a preencher após a validação do bônus. O mesmo link deve substituir a pendência em `ENTREGA.txt`. Não enviar o TXT incompleto ao portal.
 
 ## 31. Participação no FIAP NEXT
 
-[INFORMAÇÃO PENDENTE]
+**[x] Não vamos participar.**
 
 ## Referências e atribuição
 
 - [Template FIAP](https://github.com/fiap-tutoria/FIAP-PORTFOLIO-AI): estrutura e identificação do coordenador, consulta em 06/10/2026 UTC. Adaptação sob [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); template oficial preservado.
 - [Documentação Streamlit](https://docs.streamlit.io/develop/api-reference/app-testing): referência para testes da aplicação.
 - [LGPD — Lei 13.709/2018](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm): base legal a considerar no desenho de privacidade, sem substituir revisão jurídica.
-- Briefing anexado pelo solicitante: escopo, usuários, dez histórias, produtos e requisitos de entrega. Dados e referências numéricas criados exclusivamente para demonstração.
+- Briefing do Challenge: fonte do escopo, usuários, necessidades, produtos e requisitos de entrega. As dez User Stories foram estruturadas pelo grupo a partir dessas necessidades. Dados e referências numéricas criados exclusivamente para demonstração.
