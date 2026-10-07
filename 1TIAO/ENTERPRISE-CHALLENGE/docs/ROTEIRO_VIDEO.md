@@ -1,8 +1,8 @@
 # Roteiro do vídeo — até 5 minutos
 
-Status: **não gravado / link pendente**. Duração planejada: **4min40s**, reservando 20 segundos até o limite. Narração humana ou legendas legíveis. Publicar no YouTube como **Não listado**. Não mostrar credenciais, e-mail de login, códigos ou telas de configuração da conta.
+Status: **não gravado / link pendente**. Duração planejada: **4min40s**, reservando 20 segundos até o limite. **Narração: Vanira Alves da Silva.** Publicar no YouTube como **Não listado**. Não mostrar credenciais, e-mail de login, códigos ou telas de configuração da conta.
 
-Antes de gravar: preencher nome do grupo, integrantes e tutor; abrir README, diagrama e aplicativo; carregar o exemplo. Ensaiar com cronômetro. Se ultrapassar cinco minutos, reduzir detalhes da demonstração.
+Antes de gravar: abrir README, diagrama e aplicativo; carregar o exemplo. O **Grupo 69** e seus integrantes já estão identificados. Ensaiar com cronômetro. Se ultrapassar cinco minutos, reduzir detalhes da demonstração.
 
 | Tempo | Tela | Fala sugerida |
 |---|---|---|
@@ -16,7 +16,7 @@ Antes de gravar: preencher nome do grupo, integrantes e tutor; abrir README, dia
 
 ## Conferência antes de publicar
 
-1. Usar nomes reais somente após confirmação do grupo.
+1. Conferir se o README exibe corretamente o Grupo 69 e os cinco integrantes.
 2. Não confundir o bônus com um requisito obrigatório da Sprint 1.
 3. Conferir tempo total, áudio ou legendas e legibilidade.
 4. Publicar como **Não listado**, não como privado.
