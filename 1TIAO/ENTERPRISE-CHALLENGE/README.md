@@ -3,7 +3,7 @@
 **Calculadora Inteligente de Redução de Custos de Frota**  
 FIAP — Graduação ON em Inteligência Artificial · Enterprise Challenge · Sem Parar Empresas · Sprint 1.
 
-> A Sprint 1 estabelece a base do projeto. Dados e benchmarks são simulados. O MVP é um bônus acadêmico local; não representa um serviço da Sem Parar, nem promessa de economia. O **Grupo 69** já está identificado e a entrega acadêmica permanece pendente apenas da gravação/publicação do vídeo e da inserção do link. Repositório PRIVATE, branch main; acesso de fiap-tutoria confirmado (write). Auditoria final em [docs/AUDITORIA_FINAL.md](docs/AUDITORIA_FINAL.md).
+> A Sprint 1 estabelece a base do projeto. Os dados e benchmarks utilizados são simulados, e o MVP local foi desenvolvido como complemento da proposta.
 
 ## 2. Nome do grupo
 
@@ -35,7 +35,7 @@ O FleetSave AI propõe reunir despesas da frota, calcular indicadores com rastre
 
 O briefing apresenta a Sem Parar Empresas como operação da Corpay ligada a mobilidade, pagamentos, despesas e benefícios corporativos. Custos de combustível, manutenção, pedágio, multas, impostos e seguros chegam por sistemas, planilhas, PDFs, imagens, prints e extratos. O desafio é converter essa fragmentação em informação utilizável por gestores e liderança.
 
-Fonte do escopo: briefing fornecido para esta entrega. Não se atribuem as User Stories a documento oficial da parceira.
+As User Stories foram estruturadas pelo grupo com base nas necessidades apresentadas no briefing do Challenge.
 
 ## 8. Problema
 
@@ -381,4 +381,4 @@ Narração planejada: **Vanira Alves da Silva**. Máximo de 5 minutos, narraçã
 
 - [Documentação Streamlit](https://docs.streamlit.io/develop/api-reference/app-testing): referência para testes da aplicação.
 - [LGPD — Lei 13.709/2018](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm): base legal a considerar no desenho de privacidade, sem substituir revisão jurídica.
-- Briefing do Challenge: fonte do escopo, usuários, necessidades, produtos e requisitos de entrega. As dez User Stories foram estruturadas pelo grupo a partir dessas necessidades. Dados e referências numéricas criados exclusivamente para demonstração.
+- Briefing do Challenge: referência para o escopo, usuários, necessidades, produtos e requisitos de entrega. As dez User Stories foram estruturadas pelo grupo a partir dessas necessidades. Dados e referências numéricas foram criados exclusivamente para demonstração.
