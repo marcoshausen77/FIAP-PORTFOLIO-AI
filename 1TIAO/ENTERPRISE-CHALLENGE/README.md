@@ -25,7 +25,7 @@ Não informado pelo grupo.
 
 ## 5. Coordenador
 
-[André Godoi Chiovato](https://www.linkedin.com/in/andregodoichiovato/), conforme o [template oficial consultado](https://github.com/fiap-tutoria/FIAP-PORTFOLIO-AI/blob/master/1TIAO/ENTERPRISE-CHALLENGE/README.md). Não houve inferência de outros professores.
+André Godoi Chiovato
 
 ## 6. Descrição do projeto
 
@@ -379,7 +379,6 @@ Narração planejada: **Vanira Alves da Silva**. Máximo de 5 minutos, narraçã
 
 ## Referências e atribuição
 
-- [Template FIAP](https://github.com/fiap-tutoria/FIAP-PORTFOLIO-AI): estrutura e identificação do coordenador, consulta em 06/10/2026 UTC. Adaptação sob [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/); template oficial preservado.
 - [Documentação Streamlit](https://docs.streamlit.io/develop/api-reference/app-testing): referência para testes da aplicação.
 - [LGPD — Lei 13.709/2018](https://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/l13709.htm): base legal a considerar no desenho de privacidade, sem substituir revisão jurídica.
 - Briefing do Challenge: fonte do escopo, usuários, necessidades, produtos e requisitos de entrega. As dez User Stories foram estruturadas pelo grupo a partir dessas necessidades. Dados e referências numéricas criados exclusivamente para demonstração.
