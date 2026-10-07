@@ -21,7 +21,7 @@ FIAP — Graduação ON em Inteligência Artificial · Enterprise Challenge · S
 
 ## 4. Tutor
 
-Não informado pelo grupo.
+—
 
 ## 5. Coordenador
 
@@ -335,7 +335,7 @@ Relatório futuro PDF: resumo executivo, período, total, categorias, ineficiên
 - `tests/`: testes financeiros, de validação, ingestão e integração Streamlit.
 - `requirements.txt`: dependências do MVP e testes.
 - `../../.gitignore`: exclusão de segredos, ambientes e dados privados.
-- `../../ENTREGA.txt`: dois links para o Portal FIAP (vídeo pendente).
+- `../../ENTREGA.txt`: arquivo de entrega para o Portal FIAP.
 
 Não foram criadas pastas vazias sem finalidade.
 
