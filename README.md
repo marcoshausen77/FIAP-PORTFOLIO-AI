@@ -8,6 +8,6 @@ Portfólio acadêmico de projetos, desafios e experimentos desenvolvidos durante
 
 [Consultar a entrega da Sprint 1](1TIAO/ENTERPRISE-CHALLENGE/README.md): problema, dez User Stories, desenho da solução, dados simulados, arquitetura, segurança e planejamento. Inclui um MVP acadêmico como bônus.
 
-Repositório privado. O **Grupo 69** e seus integrantes já estão identificados; resta apenas gravar/publicar o vídeo e inserir o link antes da submissão.
+Projeto desenvolvido pelo **Grupo 69** para a Sprint 1 do Enterprise Challenge.
 
-Estrutura adaptada do [template FIAP](https://github.com/fiap-tutoria/FIAP-PORTFOLIO-AI), de autoria da FIAP, sob [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/). O template oficial não foi alterado.
+Estrutura baseada no [template oficial da FIAP](https://github.com/fiap-tutoria/FIAP-PORTFOLIO-AI).
