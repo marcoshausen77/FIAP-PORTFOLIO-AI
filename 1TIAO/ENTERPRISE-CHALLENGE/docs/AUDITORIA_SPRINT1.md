@@ -17,6 +17,6 @@ Total e subtotal conhecidos são distintos. Não há promessa de economia, bench
 
 ## Pendências previstas na ordem do briefing
 
-Bônus e testes, roteiro, ENTREGA.txt e acesso fiap-tutoria serão tratados nas etapas seguintes. Referências locais para esses artefatos serão resolvidas na auditoria final. Vídeo, dados do grupo, tutor e NEXT dependem do grupo.
+Bônus e testes, roteiro, ENTREGA.txt e acesso fiap-tutoria foram tratados nas etapas seguintes. O **Grupo 69** e seus integrantes estão identificados, as responsabilidades foram distribuídas e o grupo decidiu não participar do FIAP NEXT. O tutor não foi informado e não é tratado como bloqueio. Resta o vídeo e a inclusão de seu link.
 
 Gate documental aprovado para iniciar o MVP. Não equivale a entrega acadêmica concluída.
