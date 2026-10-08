@@ -1,6 +1,6 @@
 # Planejamento das Sprints
 
-Planejamento proposto pelo **Grupo 69**. Cada entrega exige documentação, testes e revisão, não apenas código. Segurança começa no desenho e é aprofundada na Sprint 6.
+Planejamento proposto pelo **Grupo 83**. Cada entrega exige documentação, testes e revisão, não apenas código. Segurança começa no desenho e é aprofundada na Sprint 6.
 
 | Sprint | Escopo | User Stories | Dependências | Critério de saída |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ Protótipo local antecipa ingestão tabular, indicadores, benchmark simulado e r
 
 História com aceite demonstrado, código revisado quando aplicável, testes adequados, documentação atualizada, limitações declaradas e evidência anexada.
 
-## Responsabilidades do Grupo 69
+## Responsabilidades do Grupo 83
 
 - **Marcos Rodrigues Czerner Hausen:** liderança técnica, arquitetura, regras de negócio, pipeline, integração do MVP e testes críticos.
 - **Bernardo Akin Chiusoli Mendes:** dados simulados, dicionário, indicadores e apoio à validação de benchmarks.
