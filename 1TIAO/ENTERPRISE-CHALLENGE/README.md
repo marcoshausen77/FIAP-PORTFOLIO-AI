@@ -7,7 +7,7 @@ FIAP — Graduação ON em Inteligência Artificial · Enterprise Challenge · S
 
 ## 2. Nome do grupo
 
-**Grupo 69**
+**Grupo 83**
 
 ## 3. Integrantes e responsabilidades
 
