@@ -20,14 +20,14 @@
 | GitHub privado | CONCLUÍDO | Confirmado PRIVATE na interface e integração; branch main |
 | MVP e testes | CONCLUÍDO | 46 testes aprovados; Streamlit health ok; ver VALIDACAO_MVP.md |
 | Roteiro de vídeo | CONCLUÍDO | ROTEIRO_VIDEO.md, duração planejada 4min40s |
-| Vídeo YouTube não listado ≤5 min | PENDENTE | Gravar, publicar e inserir o link |
+| Vídeo YouTube não listado ≤5 min | CONCLUÍDO | https://youtu.be/lCkc8i8w0CQ |
 | Nome do grupo e integrantes | CONCLUÍDO | Grupo 69 e cinco integrantes identificados |
 | Responsabilidades do grupo | CONCLUÍDO | Distribuídas no README, Kanban e planejamento |
 | Tutor | NÃO APLICÁVEL | Não informado pelo grupo; não tratado como bloqueio da entrega |
 | FIAP NEXT | CONCLUÍDO | Grupo decidiu não participar |
 | fiap-tutoria | CONCLUÍDO | Convite enviado; consulta de permissões em 06/10/2026 retornou write |
-| ENTREGA.txt | PENDENTE | Arquivo criado com URL real; falta substituir o link do vídeo |
+| ENTREGA.txt | CONCLUÍDO | Contém o link do repositório e o link do vídeo |
 | OCR e IA treinada nesta Sprint | NÃO APLICÁVEL | Não exigidos nem implementados no bônus |
-| Submissão no Portal FIAP | PENDENTE | Só após completar links e revisar acesso |
+| Submissão no Portal FIAP | PENDENTE | Enviar somente o arquivo ENTREGA.txt no Portal do Aluno |
 
-O trabalho acadêmico ainda não está pronto para submissão **apenas porque falta o vídeo e a inserção do link** no README e no ENTREGA.txt. Nenhuma nota é garantida.
+A documentação, o vídeo e os links da entrega estão concluídos. Resta apenas enviar o arquivo `ENTREGA.txt` no Portal do Aluno. Nenhuma nota é garantida.
