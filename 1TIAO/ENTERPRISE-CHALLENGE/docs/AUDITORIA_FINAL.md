@@ -1,6 +1,6 @@
 # Auditoria final — FleetSave AI / Sprint 1
 
-Data: 06/10/2026. **Parte técnica preparada e validada. Grupo 69 identificado, responsabilidades distribuídas e vídeo publicado. Resta apenas a submissão do `ENTREGA.txt` no Portal do Aluno.**
+Data: 06/10/2026. **Parte técnica preparada e validada. Grupo 83 identificado, responsabilidades distribuídas e vídeo publicado. Resta apenas a submissão do `ENTREGA.txt` no Portal do Aluno.**
 
 ## Estado confirmado
 
@@ -17,7 +17,7 @@ Data: 06/10/2026. **Parte técnica preparada e validada. Grupo 69 identificado, 
 | Testes | 46 aprovados | pytest; detalhes em VALIDACAO_MVP.md |
 | Streamlit | Iniciado; health ok | Exemplo carregado via AppTest; sem hospedagem permanente |
 | fiap-tutoria | Acesso confirmado | Colaborador adicionado ao repositório privado |
-| Grupo | Grupo 69 | Cinco integrantes identificados e responsabilidades distribuídas |
+| Grupo | Grupo 83 | Cinco integrantes identificados e responsabilidades distribuídas |
 | FIAP NEXT | Não participa | Decisão registrada no README |
 | Vídeo | CONCLUÍDO | https://youtu.be/lCkc8i8w0CQ |
 | ENTREGA.txt | CONCLUÍDO | Contém URL do GitHub e URL do vídeo |
@@ -31,7 +31,7 @@ Data: 06/10/2026. **Parte técnica preparada e validada. Grupo 69 identificado, 
 | 7: portfólio e aderência | CONCLUÍDO | README 22; recomendações sem oferta forçada |
 | 8: novo GitHub privado e template | CONCLUÍDO | Repositório confirmado; estrutura adaptada |
 | 9: acesso fiap-tutoria | CONCLUÍDO | Colaborador com acesso ao repositório privado |
-| 10–12: nome e READMEs | CONCLUÍDO | README raiz e 31 seções; Grupo 69 identificado |
+| 10–12: nome e READMEs | CONCLUÍDO | README raiz e 31 seções; Grupo 83 identificado |
 | 13–14: dataset e dicionário | CONCLUÍDO | data/ e DICIONARIO_DE_DADOS.md |
 | 15–17: entrada, lacunas e indicadores | CONCLUÍDO | README 15–18 e módulos testados |
 | 18–21: benchmark, diagnóstico, economia e ações | CONCLUÍDO | README 19–22, regras e testes numéricos |
@@ -43,7 +43,7 @@ Data: 06/10/2026. **Parte técnica preparada e validada. Grupo 69 identificado, 
 | 32–33: TXT e links | CONCLUÍDO | GitHub e vídeo inseridos no ENTREGA.txt e no README |
 | 34: checklist | CONCLUÍDO | Estados e pendências explicitados |
 | 35: critérios de qualidade | CONCLUÍDO como revisão | Problema → solução → US → dados → fórmulas → ações |
-| 36: informações do grupo | CONCLUÍDO | Grupo 69 e integrantes identificados; tutor não informado e não tratado como bloqueio |
+| 36: informações do grupo | CONCLUÍDO | Grupo 83 e integrantes identificados; tutor não informado e não tratado como bloqueio |
 | 37–38: restrições e ordem | CONCLUÍDO técnico | Privado primeiro; documentação auditada em commit anterior ao MVP |
 | 39: retorno final | Registrado nesta auditoria | Status, arquivos, execução e pendências |
 
