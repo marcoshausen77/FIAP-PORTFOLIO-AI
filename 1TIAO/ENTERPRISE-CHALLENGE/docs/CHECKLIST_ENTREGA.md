@@ -21,7 +21,7 @@
 | MVP e testes | CONCLUÍDO | 46 testes aprovados; Streamlit health ok; ver VALIDACAO_MVP.md |
 | Roteiro de vídeo | CONCLUÍDO | ROTEIRO_VIDEO.md, duração planejada 4min40s |
 | Vídeo YouTube não listado ≤5 min | CONCLUÍDO | https://youtu.be/lCkc8i8w0CQ |
-| Nome do grupo e integrantes | CONCLUÍDO | Grupo 69 e cinco integrantes identificados |
+| Nome do grupo e integrantes | CONCLUÍDO | Grupo 83 e cinco integrantes identificados |
 | Responsabilidades do grupo | CONCLUÍDO | Distribuídas no README, Kanban e planejamento |
 | Tutor | NÃO APLICÁVEL | Não informado pelo grupo; não tratado como bloqueio da entrega |
 | FIAP NEXT | CONCLUÍDO | Grupo decidiu não participar |
