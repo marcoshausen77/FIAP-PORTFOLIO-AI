@@ -1,6 +1,6 @@
 # Auditoria final — FleetSave AI / Sprint 1
 
-Data: 06/10/2026. **Parte técnica preparada e validada. Grupo 69 identificado e responsabilidades distribuídas. Submissão acadêmica pendente apenas do vídeo e da inclusão do link.**
+Data: 06/10/2026. **Parte técnica preparada e validada. Grupo 69 identificado, responsabilidades distribuídas e vídeo publicado. Resta apenas a submissão do `ENTREGA.txt` no Portal do Aluno.**
 
 ## Estado confirmado
 
@@ -19,8 +19,8 @@ Data: 06/10/2026. **Parte técnica preparada e validada. Grupo 69 identificado e
 | fiap-tutoria | Acesso confirmado | Colaborador adicionado ao repositório privado |
 | Grupo | Grupo 69 | Cinco integrantes identificados e responsabilidades distribuídas |
 | FIAP NEXT | Não participa | Decisão registrada no README |
-| Vídeo | PENDENTE | Narração atribuída a Vanira Alves da Silva; roteiro de 4min40s pronto |
-| ENTREGA.txt | Criado, incompleto | URL real do GitHub; falta vídeo |
+| Vídeo | CONCLUÍDO | https://youtu.be/lCkc8i8w0CQ |
+| ENTREGA.txt | CONCLUÍDO | Contém URL do GitHub e URL do vídeo |
 
 ## Rastreabilidade dos requisitos do briefing
 
@@ -39,8 +39,8 @@ Data: 06/10/2026. **Parte técnica preparada e validada. Grupo 69 identificado e
 | 25–26: relatório e atualizações | CONCLUÍDO | Exportação Markdown e plano de atualização versionada |
 | 27–28: roadmap e Kanban | CONCLUÍDO | PLANEJAMENTO_SPRINTS.md e KANBAN.md |
 | 29–30: bônus e testes | CONCLUÍDO | Sete módulos, dependências e 46 testes |
-| 31: vídeo | PARCIAL | Roteiro pronto; gravação/publicação pendentes |
-| 32–33: TXT e links | PARCIAL | TXT criado; marcador de vídeo igual no README |
+| 31: vídeo | CONCLUÍDO | Vídeo publicado no YouTube como não listado |
+| 32–33: TXT e links | CONCLUÍDO | GitHub e vídeo inseridos no ENTREGA.txt e no README |
 | 34: checklist | CONCLUÍDO | Estados e pendências explicitados |
 | 35: critérios de qualidade | CONCLUÍDO como revisão | Problema → solução → US → dados → fórmulas → ações |
 | 36: informações do grupo | CONCLUÍDO | Grupo 69 e integrantes identificados; tutor não informado e não tratado como bloqueio |
@@ -53,13 +53,11 @@ Conferência automatizada de 31 seções, dez US e campos por história; CSV com
 
 Testes via AppTest não equivalem a teste manual de navegador. Upload é injetado no widget no teste, mantendo o pipeline real. Não houve publicação de site, treinamento, OCR ou integração com sistemas reais. O aplicativo é demonstração local, não serviço produtivo.
 
-## Pendências antes do envio ao Portal
+## Pendência antes do envio ao Portal
 
-1. Gravar vídeo com no máximo 5 minutos, com narração de **Vanira Alves da Silva**; publicar no YouTube como **não listado**.
-2. Substituir `[LINK DO YOUTUBE PENDENTE]` no README e no ENTREGA.txt pelo mesmo link válido.
-3. Fazer a revisão final e enviar **somente ENTREGA.txt** no Portal do Aluno. Nenhum envio ao portal foi feito.
+1. Fazer a revisão final e enviar **somente `ENTREGA.txt`** no Portal do Aluno.
 
-Não há pendência técnica de criação do repositório, identificação do grupo, responsabilidades, FIAP NEXT ou documentação das User Stories. **Resta somente o vídeo, a inserção do link e o envio final do ENTREGA.txt.**
+Não há pendência técnica de criação do repositório, identificação do grupo, responsabilidades, FIAP NEXT, documentação das User Stories, vídeo ou links da entrega.
 
 Registro visual da revisão: [repositório privado](../../../assets/repositorio_privado.jpg). Captura antes do commit que incorpora esta própria imagem.
 
