@@ -1,6 +1,6 @@
 # Kanban — Sprint 1 e próximos passos
 
-Responsabilidades distribuídas entre os integrantes do **Grupo 69**. O status CONCLUÍDO indica as tarefas finalizadas nesta Sprint.
+Responsabilidades distribuídas entre os integrantes do **Grupo 83**. O status CONCLUÍDO indica as tarefas finalizadas nesta Sprint.
 
 | Coluna | Atividade | Responsável | Prioridade | Sprint |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ Responsabilidades distribuídas entre os integrantes do **Grupo 69**. O status C
 | CONCLUÍDO | Roadmap, checklist e revisão documental | Kelly Mendonça Pereira | Alta | 1 |
 | CONCLUÍDO | Implementar, integrar e testar o MVP local | Marcos Rodrigues Czerner Hausen | Alta | 1 bônus |
 | CONCLUÍDO | Dashboard, gráficos e relatório do MVP | Murilo Silva Brito da Rocha | Média | 1 bônus |
-| CONCLUÍDO | Identificação do Grupo 69 e decisão sobre FIAP NEXT | Vanira Alves da Silva | Média | 1 |
+| CONCLUÍDO | Identificação do Grupo 83 e decisão sobre FIAP NEXT | Vanira Alves da Silva | Média | 1 |
 | A FAZER | Gravar a narração do vídeo, publicar como não listado e fornecer o link | Vanira Alves da Silva | Alta | 1 |
 | CONCLUÍDO | Verificar acesso do fiap-tutoria | Marcos Rodrigues Czerner Hausen | Alta | 1 |
 | A FAZER | Inserir o link do vídeo no README e ENTREGA.txt e conferir submissão | Marcos Rodrigues Czerner Hausen | Alta | 1 |
