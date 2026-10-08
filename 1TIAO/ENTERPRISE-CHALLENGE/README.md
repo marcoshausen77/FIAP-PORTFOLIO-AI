@@ -369,7 +369,11 @@ Não há OCR, login, persistência, integração comercial ou publicação hospe
 
 ## 30. Vídeo
 
-Apresentação do projeto em vídeo com narração de **Vanira Alves da Silva**, duração máxima de 5 minutos e publicação no YouTube como **não listado**, conforme os requisitos da entrega.
+Apresentação do projeto com narração de **Vanira Alves da Silva**:
+
+https://youtu.be/lCkc8i8w0CQ
+
+Vídeo publicado no YouTube como **não listado**, conforme os requisitos da entrega.
 
 ## 31. Participação no FIAP NEXT
 
