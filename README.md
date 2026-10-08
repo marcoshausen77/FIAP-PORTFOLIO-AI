@@ -11,3 +11,8 @@ Portfólio acadêmico de projetos, desafios e experimentos desenvolvidos durante
 Projeto desenvolvido pelo **Grupo 69** para a Sprint 1 do Enterprise Challenge.
 
 Estrutura baseada no [template oficial da FIAP](https://github.com/fiap-tutoria/FIAP-PORTFOLIO-AI).
+
+
+## Vídeo da apresentação
+
+https://youtu.be/lCkc8i8w0CQ
