@@ -17,6 +17,6 @@ Total e subtotal conhecidos são tratados separadamente. Os benchmarks são simu
 
 ## Pendências previstas na ordem do briefing
 
-Bônus e testes, roteiro, ENTREGA.txt e acesso fiap-tutoria foram tratados nas etapas seguintes. O **Grupo 69** e seus integrantes estão identificados, as responsabilidades foram distribuídas e o grupo decidiu não participar do FIAP NEXT. O tutor não foi informado e não é tratado como bloqueio. Resta o vídeo e a inclusão de seu link.
+Bônus e testes, roteiro, ENTREGA.txt e acesso fiap-tutoria foram tratados nas etapas seguintes. O **Grupo 83** e seus integrantes estão identificados, as responsabilidades foram distribuídas e o grupo decidiu não participar do FIAP NEXT. O tutor não foi informado e não é tratado como bloqueio. Resta o vídeo e a inclusão de seu link.
 
 A documentação da Sprint 1 foi concluída antes do início do MVP.
